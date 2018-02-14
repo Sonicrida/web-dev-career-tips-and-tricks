@@ -8,8 +8,6 @@ I have a ton of things to add but I'll be starting off with some links for those
 
 If you have any questions, feel free to **[reach out to me on Twitter](https://twitter.com/Sonicrida)**! 
 
-*The format I'm using is definitely inspired by [Mark Erikson's](https://twitter.com/acemarke) repo, [React/Redux Links](https://github.com/markerikson/react-redux-links) which is the best of any of these link compilation repos that I have seen* :fire:
-
 ## Job Hunting
 
 ### Places To Find Jobs
