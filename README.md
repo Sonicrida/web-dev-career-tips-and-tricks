@@ -19,18 +19,14 @@ There are tons of places but a lot of them are a mess to sift through. Here are 
 * [AngelList Startup Jobs](https://angel.co/jobs)
 * [Stackoverflow Careers](https://stackoverflow.com/jobs)
 * [Github Jobs](https://jobs.github.com/positions)
-* [The Hacker News Monthly "Who's Hiring" Posts](https://hn.algolia.com/?sort=byDate&prefix=false&page=0&dateRange=all&type=story&storyText=false&query=Ask%20HN:%20Who%20is%20Hiring%3F%202018) 
-
-  this will list the posts from 2018 but I'm sure that there is a lot of value in modifying the query to view the 2017 posts as well. [HN Hiring](http://hnhiring.me/) is a site dedicated to searching through these posts but keep in mind that you need to click through to see comments because there can be useful information in them. There is also a monthly post for [Freelancers](https://hn.algolia.com/?sort=byDate&prefix=false&page=0&dateRange=all&type=story&storyText=false&query=Ask%20HN:%20freelancer%3F%20seeking) as well as a [Who wants to be Hired?](https://hn.algolia.com/?sort=byDate&prefix=false&page=0&dateRange=all&type=story&storyText=false&query=Ask%20HN:%20Who%20wants%20to%20be%20hired) post for people willing to post their info and be contacted directly instead.
-* [Regional Tech Slacks](https://github.com/ladyleet/tech-community-slacks) 
-  
-  many cities or regions have a dedicated tech slack group and they usually have a jobs channel for people looking for work in those locations. This is a nice list of them put together by [Tracy Lee](https://github.com/ladyleet)
-* **Companies you like** 
-
-  most companies have some sort of "jobs" or "careers" page. Think about companies that are using technologies that you enjoy or have a product that you like and maybe even use. Not every job gets posted to the major job boards
-* [The Reactiflux Jobs Channel](http://jobs.reactiflux.com/) 
-
-  a lot of cool jobs (many of these are react focused) are posted in the #jobs channel in the Reactiflux Discord. You can [join here](https://www.reactiflux.com/) if you'd like to view the channel directly or interact with the largest developer chat room/community that I'm aware of on the internet.
+* [The Hacker News Monthly "Who's Hiring" Posts](https://hn.algolia.com/?sort=byDate&prefix=false&page=0&dateRange=all&type=story&storyText=false&query=Ask%20HN:%20Who%20is%20Hiring%3F%202018)  
+  This will list the posts from 2018 but I'm sure that there is a lot of value in modifying the query to view the 2017 posts as well. [HN Hiring](http://hnhiring.me/) is a site dedicated to searching through these posts but keep in mind that you need to click through to see comments because there can be useful information in them. There is also a monthly post for [Freelancers](https://hn.algolia.com/?sort=byDate&prefix=false&page=0&dateRange=all&type=story&storyText=false&query=Ask%20HN:%20freelancer%3F%20seeking) as well as a [Who wants to be Hired?](https://hn.algolia.com/?sort=byDate&prefix=false&page=0&dateRange=all&type=story&storyText=false&query=Ask%20HN:%20Who%20wants%20to%20be%20hired) post for people willing to post their info and be contacted directly instead.
+* [Regional Tech Slacks](https://github.com/ladyleet/tech-community-slacks)  
+  Many cities or regions have a dedicated tech slack group and they usually have a jobs channel for people looking for work in those locations. This is a nice list of them put together by [Tracy Lee](https://github.com/ladyleet)
+* **Companies you like**  
+  Most companies have some sort of "jobs" or "careers" page. Think about companies that are using technologies that you enjoy or have a product that you like and maybe even use. Not every job gets posted to the major job boards
+* [The Reactiflux Jobs Channel](http://jobs.reactiflux.com/)  
+  A lot of cool jobs (many of these are react focused) are posted in the #jobs channel in the Reactiflux Discord. You can [join here](https://www.reactiflux.com/) if you'd like to view the channel directly or interact with the largest developer chat room/community that I'm aware of on the internet.
 
 **Keep in mind that networking will always be better than any of the things listed above. I'll write about that soon but keep in mind that you're up against the world when you're only focused on cold approaching companies with job applications.** 
 
