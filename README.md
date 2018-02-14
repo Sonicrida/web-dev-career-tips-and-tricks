@@ -4,7 +4,7 @@ A bunch of useful thoughts and links that I have decided to put together after b
 
 Expect this to be a combination of my thoughts on various topics as well as useful links to articles and other resources that may help you in your career. I'll keep this updated as much as I reasonably can and/or when I see some really golden advice. Feel free to add things that you think are useful as long as they are in line with my goal of this being easily digestable and not a massive link dump.
 
-I have a ton of things to add but I'll be starting off with some links for those that are looking for jobs!
+I have a ton of things to add but I'll be starting off with some links for those that are looking for jobs and tired of the usual sites!
 
 If you have any questions, feel free to **[reach out to me on Twitter](https://twitter.com/Sonicrida)**! 
 
