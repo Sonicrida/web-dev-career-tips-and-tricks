@@ -45,10 +45,6 @@ This is a great way to interact with devs while also building real skills that y
 
 *- This is a skill that I'm still building myself but it's still valuable even if you aren't great at it. Every job that I've had besides my first came through a connection of some sort. I'll update this more as I develop more thoughts on Networking*
 
----
-
-*The format I'm using is definitely inspired by [Mark Erikson's](https://twitter.com/acemarke) repo, [React/Redux Links](https://github.com/markerikson/react-redux-links) which is the best of any of these link compilation repos that I have seen* :fire:
-
 ## Tools And Services
 
 ### Hosting
@@ -65,3 +61,7 @@ A ridiculously simple tool for hosting node js applications for **free**! It's a
 Another great tool for hosting static sites for free with a slick command line interface
 * **[Digital Ocean](https://www.digitalocean.com/)**  
 This is a more traditional VPS host and my go to when I need more control over what I'm hosting. They don't have a free plan but the cheapest is $5 (a cup of coffee) so the pricing is definitely reasonable. It's a quick and easy way to spin up a vitual machine. They have a ton of presets as well so you can be one click away from having the stack of your choice live and running on a linxu distro.
+
+---
+
+*The format I'm using is definitely inspired by [Mark Erikson's](https://twitter.com/acemarke) repo, [React/Redux Links](https://github.com/markerikson/react-redux-links) which is the best of any of these link compilation repos that I have seen* :fire:
