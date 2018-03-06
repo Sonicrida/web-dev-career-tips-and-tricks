@@ -28,12 +28,22 @@ There are tons of places but a lot of them are a mess to sift through. Here are 
 
 **Keep in mind that networking will always be better than any of the things listed above. I'll write about that soon but keep in mind that you're up against the world when you're only focused on cold approaching companies with job applications.** 
 
-### Here's a short list of things to look into until I write a proper section on networking
-* Conferences
-* Meetups
-* Reaching out and interacting with the tech community. I recommend starting with Twitter. Many devs of the tools you use have Twitter accounts that are easy to discover.
-* Content Creation - blogging and tutorials(medium or host your own), youtube videos, podcasts, cast studies, ect.
-* Open Source Contributions
+### Networking
+
+Networking is most deifnitely the best way to find land your next role or gig. Many many many many positions are filled through recommendations from friends/family/coworkers/ect. Already having a connection to someone inside of the company that you'd like to work for puts you ahead of everybody else sending in applications.
+
+* **Conferences**  
+Meetups but on a larger scale! (I am attending my first developer conference in a few weeks. Expect updates on this after that!)
+* **Meetups**  
+Meetups can vary greatly in my experience. Depending on how active your region is, this can be a great way to meet devs and learn about companies in your area that may be hiring. They often have a segment of time scheduled for networking/hiring related talks as well. Try to enjoy yourself and make friends! If you really want to get the max value from meetups, try giving a talk or even starting one if your area doesn't have a meetup for your topic of interest.
+* **Social Media**  
+I recommend starting with Twitter. Many devs of the tools you use have Twitter accounts that are easy to discover.
+* **Content Creation**  
+Blogging and creating tutorials(medium or host your own), youtube videos, podcasts, cast studies, ect. All of these can be FANTASTIC ways to attract attention from companies looking to hire awesome devs. Get good at this and the jobs will find you!
+* **Open Source Contributions**  
+This is a great way to interact with devs while also building real skills that you will use on the job. You also get to help out the devs working for little to no money that are making the tools that power our ecosystem.
+
+*- This is a skill that I'm still building myself but it's still valuable even if you aren't great at it. Every job that I've had besides my first came through a connection of some sort. I'll update this more as I develop more thoughts on Networking*
 
 ---
 
