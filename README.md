@@ -48,3 +48,20 @@ This is a great way to interact with devs while also building real skills that y
 ---
 
 *The format I'm using is definitely inspired by [Mark Erikson's](https://twitter.com/acemarke) repo, [React/Redux Links](https://github.com/markerikson/react-redux-links) which is the best of any of these link compilation repos that I have seen* :fire:
+
+## Tools And Services
+
+### Hosting
+
+Here are a couple of services that I think are great for hosting various projects **like a portfolio**!
+
+* **[Netlify](https://www.netlify.com/)**  
+Netlify is my favorite way to host a static site or client-side application these days. It seamlessly integrates with Github and you can also drag a project folder right into it(useful for that short period in time where you haven't tried Github out yet). With modern static site generators like Gatsby, Hugo, or Jekyll, you can even host blogs for free!
+* **[Github Pages](https://pages.github.com/)**  
+Github Pages is an extremely popular way to host a website directly from your github repo. It's quick and painless and a fine choice for hosting a client-side app or static site
+* **[Now by Zeit](https://zeit.co/now)**  
+A ridiculously simple tool for hosting node js applications for **free**! It's an insanely useful tool as long as you don't mind that your code is open to the public (fine for portfolio sites for example).
+* **[Surge](https://surge.sh/)**  
+Another great tool for hosting static sites for free with a slick command line interface
+* **[Digital Ocean](https://www.digitalocean.com/)**  
+This is a more traditional VPS host and my go to when I need more control over what I'm hosting. They don't have a free plan but the cheapest is $5 (a cup of coffee) so the pricing is definitely reasonable. It's a quick and easy way to spin up a vitual machine. They have a ton of presets as well so you can be one click away from having the stack of your choice live and running on a linxu distro.
