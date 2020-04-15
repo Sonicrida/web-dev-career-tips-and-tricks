@@ -25,6 +25,14 @@ There are tons of places but a lot of them are a mess to sift through. Here are 
   Most companies have some sort of "jobs" or "careers" page. Think about companies that are using technologies that you enjoy or have a product that you like and maybe even use. Not every job gets posted to the major job boards
 * [The Reactiflux Jobs Channel](http://jobs.reactiflux.com/)  
   A lot of cool jobs (many of these are react focused) are posted in the #jobs channel in the Reactiflux Discord. You can [join here](https://www.reactiflux.com/) if you'd like to view the channel directly or interact with the largest developer chat room/community that I'm aware of on the internet.
+  
+#### Remote Specific Sites
+
+* [We Work Remotely](https://weworkremotely.com/)
+* [Who Is Hiring](https://whoishiring.io/)
+* [Remote OK](https://remoteok.io/)
+* [Remotive](https://remotive.io/remote-jobs/software-dev)
+* [Remote Jobs from Hackernews hand picked by Remote Leaf](https://remoteleaf.com/whoishiring)
 
 **Keep in mind that networking will always be better than any of the things listed above. I'll write about that soon but keep in mind that you're up against the world when you're only focused on cold approaching companies with job applications.** 
 
