@@ -25,6 +25,7 @@ There are tons of places but a lot of them are a mess to sift through. Here are 
   Most companies have some sort of "jobs" or "careers" page. Think about companies that are using technologies that you enjoy or have a product that you like and maybe even use. Not every job gets posted to the major job boards
 * [The Reactiflux Jobs Channel](http://jobs.reactiflux.com/)  
   A lot of cool jobs (many of these are react focused) are posted in the #jobs channel in the Reactiflux Discord. You can [join here](https://www.reactiflux.com/) if you'd like to view the channel directly or interact with the largest developer chat room/community that I'm aware of on the internet.
+* [LinkedIn](https://www.linkedin.com/jobs/) - LinkedIn can be good for finding work especially if you live in or near a tech hub. Keep your profile up to date so that companies can reach out to you too.
   
 #### Remote Specific Sites
 
